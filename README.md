@@ -1,4 +1,4 @@
-# BøgerBøger
+# Bøger
 
 ## Ønskeliste
 
